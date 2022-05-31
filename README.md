@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmanuelsilvaNasc
+- 👋 Hi, I’m @EmanuelNasc
 - 👀 I’m interested in ...web and mobile dev using js
 - 🌱 I’m currently learning ... js
 - 💞️ I’m looking to collaborate on ... javascript solutions
